@@ -22,8 +22,6 @@ i like to crochet, hang out with my cat, spend some time outdoors, or watch a lo
 
 🌱 now:
 * learning react native by building something fun
-* researching NLP in {clinical, literature} corpora
-* brushing up on data structures & algorithms to prepare for my final semester of TAing!
 
 📖 (technical) interests:
 * computer systems
