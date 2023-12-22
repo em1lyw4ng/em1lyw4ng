@@ -21,7 +21,7 @@ most of my experience is with mobile development (iOS specifically), but i'm loo
 i like to crochet, hang out with my cat, spend some time outdoors, or watch a lot of food-related content. 
 
 🌱 now:
-* learning react native by building something fun
+* learning fun programming stuff by building fun programming stuff
 
 📖 (technical) interests:
 * computer systems
