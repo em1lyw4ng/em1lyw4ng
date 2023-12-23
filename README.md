@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 i'm a soon-to-be computer science graduate, currently based out of los angeles-ish and born in new york city-ish. 
 
-most of my experience is with mobile development (iOS specifically), but i'm looking to branch out 🏕. 
+most of my experience is with mobile development (iOS specifically), but i'm looking to branch out into different roles and domains 🏕. 
 
 i like to crochet, hang out with my cat, spend some time outdoors, or watch a lot of food-related content. 
 
