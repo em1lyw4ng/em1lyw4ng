@@ -23,9 +23,5 @@ i like to crochet, hang out with my cat, spend some time outdoors, or watch a lo
 🌱 now:
 * learning fun programming stuff by building fun programming stuff
 
-📖 (technical) interests:
-* computer systems
-* back-end development
-
 most of my projects done through school can be found [here](https://github.com/ecwa2020), but personally motivated shenanigans are hosted here.
 
