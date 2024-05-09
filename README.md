@@ -14,14 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-i'm a soon-to-be computer science graduate, currently based out of los angeles-ish and born in new york city-ish. 
+hi, i'm a recent computer science graduate! 
 
 most of my experience is with mobile development (iOS), but i'm looking to branch out to different roles and domains 🏕. 
 
 i like to crochet, hang out with my cat, spend some time outdoors, or watch a lot of food-related content. 
-
-🌱 now:
-* learning fun programming stuff by building fun programming stuff
 
 most of my projects done through school can be found [here](https://github.com/ecwa2020), but personally motivated shenanigans are hosted here.
 
